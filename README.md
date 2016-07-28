@@ -1,9 +1,9 @@
 # skeleton-plus
-This is an Plus Version of Skeleton.css
+This is a Plus Version of Skeleton.css
 
 
 # Why skeleton-plus ?
-Skeleton plus include more colors and functions than the normal Skeleton Version.
+Skeleton Plus includes more colors and functions than the original version of Skeleton.
 
 
 #How to install ?
@@ -20,7 +20,7 @@ NPM
 
   `npm install skeleton-plus`
 
-  With ExpressJs you should use following code:
+  With ExpressJs you should use the following code:
 
   `app.use('/skeleton-plus', express.static(__dirname + '/node_modules/skeleton-plus/css/'));`
 
